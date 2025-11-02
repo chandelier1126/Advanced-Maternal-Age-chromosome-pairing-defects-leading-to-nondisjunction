@@ -43,5 +43,5 @@ This study explores how the Sir2(R139K) mutant accelerates meiosis and destabili
 ##  Author
 **Gang Taek Kim**, Department of Life Science, Chung-Ang University  
 Supervised by **Prof. Keun P. Kim**  
-Contact 1: [abrahamkim0619@gmail.com](mailto:abrahamkim0619@gmail.com) 
+Contact 1: [abrahamkim0619@gmail.com](mailto:abrahamkim0619@gmail.com)  
 Contact 2: [kgt9687@cau.ac.kr](mailto:kgt9687@cau.ac.kr)
