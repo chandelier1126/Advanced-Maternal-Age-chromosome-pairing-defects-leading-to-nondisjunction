@@ -7,7 +7,7 @@ This analysis investigates differential gene expression between **WT** and **Sir
 ##  Dataset
 - **GEO ID:** GSE104904  
 - **Organism:** *Saccharomyces cerevisiae*  
-- **Conditions:** Wild-type vs. Sir2(R139K) mutant
+- **Conditions:** Wild-type vs. Sir2(*R139K*) mutant
 
 ---
 
