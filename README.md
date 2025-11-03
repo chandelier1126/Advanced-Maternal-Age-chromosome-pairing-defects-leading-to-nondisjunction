@@ -1,7 +1,7 @@
 # Advanced Maternal Age: Chromosome Pairing Defects Leading to Nondisjunction
 
 This project investigates how aging affects meiotic chromosome segregation using *Saccharomyces cerevisiae* as a model organism.  
-We compared **Sir2(R139K) mutant** yeast with **wild-type (WT)** to understand how aging influences cohesin stability and chromosome pairing.
+We compared **Sir2(*R139K*) mutant** yeast with **Wild-type (WT)** to understand how aging influences cohesin stability and chromosome pairing.
 
 ---
 
