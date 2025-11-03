@@ -101,8 +101,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **Email** | [abrahamkim0619@gmail.com](mailto:abrahamkim0619@gmail.com)  
-              [kgt9687@cau.ac.kr](mailto:kgt9687@cau.ac.kr)|
+| **Email** | [abrahamkim0619@gmail.com](mailto:abrahamkim0619@gmail.com) | [kgt9687@cau.ac.kr](mailto:kgt9687@cau.ac.kr)|
 | **LinkedIn** | [Profile Link: github.com/chandelier1126](https://github.com/chandelier1126)) |
 | **CV** | [📄 View / Download](assets/file:///C:/Users/%EA%B9%80%EA%B0%95%ED%83%9D/Downloads/cv.pdf) |
 | **Affiliation** | Dept. of Life Science, Chung-Ang University |
