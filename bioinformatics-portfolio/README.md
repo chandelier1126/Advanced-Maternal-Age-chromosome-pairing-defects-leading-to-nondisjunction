@@ -20,7 +20,7 @@ This portfolio integrates computational and experimental data to show how **Sir2
 ---
 
 ##  Key Findings
-- **Sir2(R139K)** mutant shows **faster meiotic progression**
+- **Sir2(*R139K*)** mutant shows **faster meiotic progression**
 - **Rec8** expression peaks and declines earlier in mutants
 - **TetR–GFP assay** reveals premature sister chromatid separation
 - These findings model how **aging-related cohesin defects** may underlie **aneuploidy** in higher organisms
